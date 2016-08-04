@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.hqgame.com/wechat.ipa</string>
+					<string>http://www.hqgame.com/ActiveCode.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.xin</string>
+				<string>com.any.active.ActiveCode</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>wechat.ipa</string>
+				<string>ActiveCode.ipa</string>
 			</dict>
 		</dict>
 	</array>
